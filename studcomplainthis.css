@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size:auto;
+    background-image: url("https://wallpapercave.com/wp/wp7820242.jpg");
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(49, 216, 202);
+}
+
+
+table,th,td{
+    border: 1px solid;
+    color: azure;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px 20px;
+}
